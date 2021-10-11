@@ -17,4 +17,6 @@ Transact SQL, PL/SQL, TCL, TK, Python, Java, Javascript, Ruby, Python, Objective
 C, Swift, Objective C++, Smalltalk, LISP, Bourne and C shell scripting,
 Applescript, Lua, and the list keeps growing.
 
+# Certifications
 
+![CSD Certification](img/seal-csd.png)
