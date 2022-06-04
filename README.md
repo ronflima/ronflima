@@ -1,4 +1,4 @@
-# Small Bio
+# Bio
 
 Developing software is actually a long-term hobby of mine. My first contact with
 computers date back to 1982, when I met an Apple II machine. At that time, I was
@@ -16,6 +16,13 @@ I learned several programming languages: BASIC, Pascal, C, C++, Visual Basic,
 Transact SQL, PL/SQL, TCL, TK, Python, Java, Javascript, Ruby, Python, Objective
 C, Swift, Objective C++, Smalltalk, LISP, Bourne and C shell scripting,
 Applescript, Lua, and the list keeps growing.
+
+Along with the non-stoping list of programming languages, also comes a list of
+frameworks like Flask, Django, Django Rest Framework, Rails, Apple's UIKit and
+so forth. 
+
+- [LinkedIn Profile](https://www.linkedin.com/in/ronlima/)
+- [Blog](https://brazuca.dev)
 
 # Certifications
 
