@@ -24,7 +24,22 @@ so forth.
 - [LinkedIn Profile](https://www.linkedin.com/in/ronlima/)
 - [Blog](https://brazuca.dev)
 
-|![Static Badge](https://img.shields.io/badge/C%20-%20ANSI%20-%20%232236e1)|![Static Badge](https://img.shields.io/badge/C%2B%2B%20-%20ANSI%20-%20%2322885c)|
+<p align="center">
+    ![Static Badge](https://img.shields.io/badge/-%20ANSI%20-%20%2322885c?logo=c)
+    ![Static Badge](https://img.shields.io/badge/-%20ANSI%20-%20%232236e1?logo=cplusplus)
+    ![Static Badge](https://img.shields.io/badge/-%20Python%203%20-%20%233776AB?logo=python&logoColor=%23ffffff)
+    ![Static Badge](https://img.shields.io/badge/-%20Django%20-%20%23092E20?logo=django)
+    ![Static Badge](https://img.shields.io/badge/-%20Linux%20-%20%23FCC624?logo=linux&logoColor=%23ffffff)
+    ![Static Badge](https://img.shields.io/badge/-%20Windows%20-%20%230078D4?logo=windows&logoColor=%23ffffff)
+    ![Static Badge](https://img.shields.io/badge/-%20iOS%20-%20%23000000?logo=apple&logoColor=%23ffffff)
+    ![Static Badge](https://img.shields.io/badge/-%20Javascript%20-%20%23F7DF1E?logo=javascript&labelColor=black)
+    ![Static Badge](https://img.shields.io/badge/-%20NodeJS%20-%20%23000000?logo=nodedotjs&logoColor=%23339933)
+    ![Static Badge](https://img.shields.io/badge/-%20Groovy%20-%20%234298B8?logo=apachegroovy&logoColor=%23ffffff)
+    ![Static Badge](https://img.shields.io/badge/-%20Jenkins-%20%23D24939?logo=jenkins&logoColor=%23ffffff)
+
+    
+    
+</p>
 
 
 
