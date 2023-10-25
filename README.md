@@ -24,3 +24,7 @@ so forth.
 - [LinkedIn Profile](https://www.linkedin.com/in/ronlima/)
 - [Blog](https://brazuca.dev)
 
+|![Static Badge](https://img.shields.io/badge/C%20-%20ANSI%20-%20%232236e1)|![Static Badge](https://img.shields.io/badge/C%2B%2B%20-%20ANSI%20-%20%2322885c)|
+
+
+
