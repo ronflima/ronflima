@@ -24,9 +24,3 @@ so forth.
 - [LinkedIn Profile](https://www.linkedin.com/in/ronlima/)
 - [Blog](https://brazuca.dev)
 
-# Certifications
-
-<figure>
-    <img src="img/seal-csd.png" width="150" />
-    <figcaption>Currently Expired</figcaption>
-</figure>
