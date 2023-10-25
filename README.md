@@ -35,6 +35,9 @@ so forth.
 ![Static Badge](https://img.shields.io/badge/-%20NodeJS%20-%20%23000000?logo=nodedotjs&logoColor=%23339933)
 ![Static Badge](https://img.shields.io/badge/-%20Groovy%20-%20%234298B8?logo=apachegroovy&logoColor=%23ffffff)
 ![Static Badge](https://img.shields.io/badge/-%20Jenkins-%20%23D24939?logo=jenkins&logoColor=%23ffffff)
+![Static Badge](https://img.shields.io/badge/-%20Powershell%20-%20%235391FE?logo=powershell&logoColor=%23ffffff)
+![Static Badge](https://img.shields.io/badge/-%20Swift%20-%20%235391FE?logo=apple&logoColor=%23ffffff)
+![Static Badge](https://img.shields.io/badge/-%20Google%20Cloud%20-%20%234285F4?logo=googlecloud&logoColor=%23ffffff)
 
 
 
