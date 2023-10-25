@@ -24,6 +24,9 @@ so forth.
 - [LinkedIn Profile](https://www.linkedin.com/in/ronlima/)
 - [Blog](https://brazuca.dev)
 
+# My Knowledge
+It is not it all. But a great part of it. 
+
 ![Static Badge](https://img.shields.io/badge/-%20ANSI%20-%20%2322885c?logo=c&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fronlima%2F)
 ![Static Badge](https://img.shields.io/badge/-%20ANSI%20-%20%232236e1?logo=cplusplus&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fronlima%2F)
 ![Static Badge](https://img.shields.io/badge/-%20Python%203%20-%20%233776AB?logo=python&logoColor=%23ffffff&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fronlima%2F)
