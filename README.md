@@ -26,5 +26,7 @@ so forth.
 
 # Certifications
 
-<img src="img/seal-csd.png" width="150" />
-
+<figure>
+    <img src="img/seal-csd.png" width="150" />
+    <figcaption>Currently Expired</figcaption>
+</figure>
