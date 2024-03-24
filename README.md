@@ -51,3 +51,5 @@ It is not it all. But a great part of it.
 ![Static Badge](https://img.shields.io/badge/-%20K8S%20-%20%23326CE5?logo=kubernetes&logoColor=%23ffffff&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fronlima%2F)
 ![Static Badge](https://img.shields.io/badge/-%20Bash%20-%20%234EAA25?logo=gnubash&logoColor=%23ffffff&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fronlima%2F)
 ![Static Badge](https://img.shields.io/badge/-%20VSCode%20-%20%23007ACC?logo=visualstudiocode&logoColor=%23ffffff&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fronlima%2F)
+
+I created those badges using [this website](https://shields.io/badges).
