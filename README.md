@@ -1,11 +1,11 @@
-# Bio
+# Fast Bio
 
-I'm a professional program writer.Since I was a kid I wanted to deal with
-computers. My first contact with computers date back to 1982, when I met an
-Apple II machine. At that time, I was only 11. But only in 1986 I could get
-really interested in computers. My mother registered me on a BASIC course. So, I
-learned BASIC on TRS-80 based machines: Prologica CP-200 and Microdigital TK-85
-and TK-90X. 
+I'm a professional program writer. Since I was a kid I wanted to deal
+with computers. My first contact with computers date back to 1982,
+when I met an Apple II machine. At that time, I was only 11. But only
+in 1986 I could get really interested in computers. My mother
+registered me on a BASIC course. So, I learned BASIC on TRS-80 based
+machines: Prologica CP-200 and Microdigital TK-85 and TK-90X.
 
 But, in 1991, after six months of electrical engineering course, I learned
 Pascal. At that time, electrical engineering died for me, but computing was
@@ -18,7 +18,7 @@ C, Swift, Objective C++, Smalltalk, LISP, Bourne and C shell scripting,
 Applescript, Lua, and the list keeps growing.
 
 Along with the non-stoping list of programming languages, also comes a list of
-frameworks like Flask, Django, Django Rest Framework, Rails, Apple's UIKit and
+frameworks like Flask, Django, Django Rest Framework, Rails, Apple's Cocoa and
 so forth. 
 
 - [LinkedIn Profile](https://www.linkedin.com/in/ronlima/)
@@ -51,7 +51,3 @@ It is not it all. But a great part of it.
 ![Static Badge](https://img.shields.io/badge/-%20K8S%20-%20%23326CE5?logo=kubernetes&logoColor=%23ffffff&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fronlima%2F)
 ![Static Badge](https://img.shields.io/badge/-%20Bash%20-%20%234EAA25?logo=gnubash&logoColor=%23ffffff&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fronlima%2F)
 ![Static Badge](https://img.shields.io/badge/-%20VSCode%20-%20%23007ACC?logo=visualstudiocode&logoColor=%23ffffff&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fronlima%2F)
-
-
-
-
