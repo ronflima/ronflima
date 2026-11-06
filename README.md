@@ -52,6 +52,6 @@ It is not it all. But a great part of it.
 ![Static Badge](https://img.shields.io/badge/-%20Bash%20-%20%234EAA25?logo=gnubash&logoColor=%23ffffff&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fronlima%2F)
 ![Static Badge](https://img.shields.io/badge/-%20VSCode%20-%20%23007ACC?logo=visualstudiocode&logoColor=%23ffffff&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fronlima%2F)
 ![Static Badge](https://img.shields.io/badge/Emacs-gnuemacs?logo=gnuemacs&logoColor=white&color=7F5AB6&link=https%3A%2F%2Fbrazuca.dev)
-![Static Badge](https://img.shields.io/badge/Lang-00ADD8?logo=go&label=Go)
+![Static Badge](https://img.shields.io/badge/Go-ffffff?logo=go)
 
 I created those badges using [this website](https://shields.io/badges).
