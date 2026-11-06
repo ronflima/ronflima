@@ -26,6 +26,7 @@ so forth.
 
 # My Knowledge
 It is not it all. But a great part of it. 
+
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---|
 | ![Static Badge](https://img.shields.io/badge/-%20ANSI%20-%20%2322885c?logo=c&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fronlima%2F)                                         | ![Static Badge](https://img.shields.io/badge/-%20ANSI%20-%20%232236e1?logo=cplusplus&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fronlima%2F)                                |   |
 | ![Static Badge](https://img.shields.io/badge/-%20Python%203%20-%20%233776AB?logo=python&logoColor=%23ffffff&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fronlima%2F)          | ![Static Badge](https://img.shields.io/badge/-%20Django%20-%20%23092E20?logo=django&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fronlima%2F)                                 |   |
@@ -41,4 +42,5 @@ It is not it all. But a great part of it.
 | ![Static Badge](https://img.shields.io/badge/-%20Bash%20-%20%234EAA25?logo=gnubash&logoColor=%23ffffff&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fronlima%2F)               | ![Static Badge](https://img.shields.io/badge/-%20VSCode%20-%20%23007ACC?logo=visualstudiocode&logoColor=%23ffffff&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fronlima%2F)   |   |
 | ![Static Badge](https://img.shields.io/badge/Emacs-gnuemacs?logo=gnuemacs&logoColor=white&color=7F5AB6&link=https%3A%2F%2Fbrazuca.dev)                                      | ![Static Badge](https://img.shields.io/badge/Go-ffffff?logo=go)                                                                                                            |   |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---|
+
 I created those badges using [this website](https://shields.io/badges).
